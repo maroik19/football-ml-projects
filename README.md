@@ -12,7 +12,7 @@ Dataset: https://www.kaggle.com/datasets/adamgbor/club-football-match-data-2000-
 The data file is not included in this repo. To run the scripts:
 
 1. Download the dataset from Kaggle.
-2. Place `Matches.csv` in the `data/` folder.
+2. Create a `data/` folder in the repo root and place `Matches.csv` inside it.
 
 All projects use the top-5 European leagues only (`E0`, `SP1`, `D1`, `I1`, `F1`).
 
